@@ -1,0 +1,4 @@
+/home/peter/Desktop/shahitut2/out/build/CMakeFiles/LveEngine.dir
+/home/peter/Desktop/shahitut2/out/build/CMakeFiles/Shaders.dir
+/home/peter/Desktop/shahitut2/out/build/CMakeFiles/edit_cache.dir
+/home/peter/Desktop/shahitut2/out/build/CMakeFiles/rebuild_cache.dir
